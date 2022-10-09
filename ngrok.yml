@@ -1,0 +1,5 @@
+authtoken: 2Fckz3vqXQWQzudelB3tS5A6MZh_6Q8ZWCD8UiBiP4DGyXMue
+tunnels:
+    default:
+        proto: tcp
+        addr: 3389

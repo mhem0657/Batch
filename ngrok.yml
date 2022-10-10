@@ -3,3 +3,5 @@ tunnels:
     default:
         proto: tcp
         addr: 3389
+version: "2"
+region: ap
